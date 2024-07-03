@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Amrit Singh
+- 👀 I’m interested in becoming a full-stack web developer.
+- 🌱 I have recently completed a 6-month coding bootcamp by HyperionDev in Full-Stack Web Development
+- 📫 My LinkedIn is available on my profile.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I used to be a makeup artist and photographer! These creative skills have come in handy in front-end development.
